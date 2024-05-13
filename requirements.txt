@@ -1,0 +1,6 @@
+quart
+colorama
+prompt-toolkit
+click
+requests
+requests-cache
