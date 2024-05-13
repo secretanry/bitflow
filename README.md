@@ -10,7 +10,11 @@
 ```bash
 pip install -r requirements.txt
 ```
-3) run 
+3) run
+``` bash
+python3 api_torrent.py
+```
+4) run 
 ``` bash
 python3 main.py
 ```
